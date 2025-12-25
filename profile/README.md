@@ -15,11 +15,11 @@ If you are unsure where to start, please contact robin@wahl.chat.
 Further specifications coming soon.
 
 ## Code of Conduct
-Our community exists to build **trustworthy, inclusive civic technology** grounded in **democratic values, transparency, and respect**. We expect all contributors and users to engage constructively, cite sources, protect privacy, and use this technology exclusively in the public interest. Please read and adhere to our [CODE_OF_CONDUCT](profile/CODE_OF_CONDUCT.md) before making any contributions.
+Our community exists to build **trustworthy, inclusive civic technology** grounded in **democratic values, transparency, and respect**. We expect all contributors and users to engage constructively, cite sources, protect privacy, and use this technology exclusively in the public interest. Please read and adhere to our [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) before making any contributions.
 
 ## License
 This project is **source-available** under the **PolyForm Noncommercial 1.0.0** license.
-- Free for **non-commercial** use (see [LICENSE](profile/LICENSE) for permitted purposes)
+- Free for **non-commercial** use (see [LICENSE](LICENSE) for permitted purposes)
 - Share the license text and any `Required Notice:` lines when distributing
 - Please contact us at info@wahl.chat to
   a. Inform us about your use case
