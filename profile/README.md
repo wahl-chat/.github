@@ -14,6 +14,12 @@ We appreciate contributions from our community. Please take a look at the open i
 If you are unsure where to start, please contact robin@wahl.chat. 
 Further specifications coming soon.
 
+#### Academic citation
+If you are using wahl.chat for any research related purposes, please use the following citation in your work:  
+> **Frasch, R., Mayr, R., Wyrowski, A., Schimpf, M., & Maier, S. (2025).**  
+> *wahl.chat: An AI-based platform for accessible political information and democratic engagement.*  
+> wahl.chat. https://wahl.chat
+
 ## Code of Conduct
 Our community exists to build **trustworthy, inclusive civic technology** grounded in **democratic values, transparency, and respect**. We expect all contributors and users to engage constructively, cite sources, protect privacy, and use this technology exclusively in the public interest. Please read and adhere to our [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) before making any contributions.
 
